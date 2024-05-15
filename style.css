@@ -4,7 +4,7 @@
 }
 
 .banner{
-    background-image:url(image/istockphoto-1314941457-170667a.jpg);
+    background-image:url(../image/istockphoto-1314941457-170667a.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 250px;
@@ -13,6 +13,4 @@
 .s-p{
     padding: 70px 0;
 }
-.pad-one{
-    padding-bottom: 50%;
-}
+
